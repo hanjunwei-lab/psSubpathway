@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DCgenematrix
 DCspwresult
 Subgenematrix
@@ -6,3 +7,13 @@ spwentrezidlist
 spwnetworkdata
 spwsymbollist
 spwtitle
+=======
+DCgenematrix
+DCspwresult
+Subgenematrix
+Subspwresult
+spwentrezidlist
+spwnetworkdata
+spwsymbollist
+spwtitle
+>>>>>>> c43b0c8084a22940352538ed5e0734e5a168a738
