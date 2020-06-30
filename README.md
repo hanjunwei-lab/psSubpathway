@@ -9,6 +9,6 @@ Installation method：
 Use：
 library(psSubpathway)
 
-Please cite the following article when using `PriorCD`:
+Please cite the following article when using `psSubpathway`:
 
 Han, J, Han, X.,Kong, Q., Cheng, L., psSubpathway: a software package for flexible identification of phenotype-specific subpathways in cancer progression, Bioinformatics, 2020. 36(7):2303-2305.
